@@ -5,7 +5,7 @@
         <img src="/img/logo.svg" alt="Atelier Chaclan" />
       </div>
       <div class="ml-8 uppercase flex flex-col">
-        <div>
+        <div class="address">
           Jonathan Chaclàn<br />
           Architekten GMBH<br />
           ETH SIA<br />
@@ -48,7 +48,11 @@ body {
   letter-spacing: 4px;
 }
 .contact {
-  margin-top: 45px;
+  margin-top: 50px;
+}
+
+.address {
+  margin-top: -5px;
 }
 
 a:hover {
