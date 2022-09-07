@@ -48,11 +48,11 @@ body {
   letter-spacing: 4px;
 }
 .contact {
-  margin-top: 46px;
+  margin-top: 48px;
 }
 
 .address {
-  margin-top: -3px;
+  margin-top: -5px;
 }
 
 a:hover {
