@@ -1,8 +1,8 @@
 <template>
   <div class="w-screen h-screen flex justify-center items-center">
-    <div class="flex">
+    <div class="flex h-52">
       <div>
-        <img src="/img/logo.svg" alt="Atelier Chaclan" />
+        <img src="/img/logo.jpg" class="h-52" alt="Atelier Chaclan" />
       </div>
       <div class="ml-8 uppercase flex flex-col">
         <div class="address">
@@ -48,11 +48,11 @@ body {
   letter-spacing: 4px;
 }
 .contact {
-  margin-top: 50px;
+  margin-top: 46px;
 }
 
 .address {
-  margin-top: -5px;
+  margin-top: -3px;
 }
 
 a:hover {
